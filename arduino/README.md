@@ -125,7 +125,7 @@ Untuk memverifikasi emulator, gunakan logic analyzer yang terhubung ke jalur DAT
 Contoh hasil capture:
 
 <p align="center">
-  <img src="arduino/image/logic1.png" width="1000" alt="DHT11 Emulator PulseView Capture">
+  <img src="./image/logic1.png" width="1000" alt="DHT11 Emulator PulseView Capture">
 </p>
 
 Capture ini digunakan untuk memeriksa:
