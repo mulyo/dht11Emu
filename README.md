@@ -57,3 +57,14 @@ Proyek ini dirancang untuk kebutuhan testing dan emulasi sensor, bukan untuk men
 ## Kesimpulan
 
 DHT11 Emulator ini merupakan contoh penerapan pengujian hardware dan protokol embedded secara nyata. Selain bermanfaat untuk validasi alat, proyek ini juga menunjukkan kemampuan dalam memahami timing sinyal, interrupt, dan komunikasi low-level yang sering menjadi tantangan dalam pengembangan sistem berbasis mikrokontroler.
+
+Author
+Mulyo Sanyoto (mulyosanyoto@gmail.com)
+
+GitHub:
+
+https://github.com/mulyo
+
+Repository:
+
+https://github.com/mulyo/dht11Emu
