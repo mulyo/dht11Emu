@@ -307,13 +307,6 @@ CHECKSUM
 
 Dengan cara ini, emulator tidak hanya diuji berdasarkan nilai data yang diterima, tetapi juga berdasarkan **karakteristik sinyal digital dan timing protokol DHT11**.
 
-
-![Protokol DHT11](docs/protokol.png)
-
-![Start signal DHT11](docs/start.png)
-
-![Data bit DHT11](docs/data.png)
-
 ## Konsep Kerja
 
 Emulator ini bekerja dengan cara:
