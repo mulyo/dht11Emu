@@ -1,0 +1,6 @@
+```text
+User-agent: *
+Allow: /
+
+Sitemap: https://mulyo.github.io/dht11Emu/sitemap.xml
+```

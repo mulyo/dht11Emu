@@ -1,7 +1,4 @@
-
-
-
-# DHT11 Emulator
+# DHT11 Emulator  Arduino Nano
 
 Proyek ini adalah emulator sensor DHT11 yang dirancang untuk mensimulasikan keluaran sinyal sensor DHT11 secara real-time tanpa memerlukan sensor fisik asli. Tujuan utamanya adalah membantu pengujian firmware, QA, dan validasi perangkat yang berinteraksi dengan sensor suhu dan kelembapan.
 
