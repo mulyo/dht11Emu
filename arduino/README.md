@@ -459,7 +459,7 @@ Tambahkan file `LICENSE` ke repository jika proyek akan didistribusikan sebagai 
 
 ## Author
 
-**Mulyo Sanyoto**
+**Mulyo Sanyoto** (mulyosanyoto@gmail.com)
 
 GitHub:
 
