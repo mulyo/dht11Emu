@@ -43,7 +43,7 @@ Untuk pengujian dengan perangkat DHT11 master, hubungkan jalur DATA emulator ke 
 Skematik rangkaian dibuat menggunakan Fritzing.
 
 <p align="center">
-  <img src="arduino/image/dhtEmu-Fritzing.png" width="800" alt="DHT11 Emulator Fritzing Schematic">
+  <img src="./image/dhtEmu-Fritzing.png" width="800" alt="DHT11 Emulator Fritzing Schematic">
 </p>
 
 ### Koneksi utama
